@@ -1,0 +1,11 @@
+.cart-block {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cart-block__icon {
+  margin-right: 15px;
+  cursor: pointer;
+}
